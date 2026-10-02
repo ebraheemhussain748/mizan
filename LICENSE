@@ -1,0 +1,12 @@
+Copyright © 2026 Ebraheem Hussain. All rights reserved.
+
+Mizan (the code, design, text and images in this repository) may not be copied,
+modified, published or distributed, in whole or in part, without written
+permission from the copyright holder. Viewing the source on GitHub and using
+the web app at https://ebraheemhussain748.github.io/mizan/ is allowed.
+
+Third-party parts keep their own licences:
+- Bricolage Grotesque and Atkinson Hyperlegible Next typefaces — SIL Open Font
+  License 1.1 (see assets/fonts/).
+- face-api.js by Vladimir Mandic — MIT License (see assets/vendor/face-api/LICENSE.txt),
+  with its face-detection models in assets/models/.
